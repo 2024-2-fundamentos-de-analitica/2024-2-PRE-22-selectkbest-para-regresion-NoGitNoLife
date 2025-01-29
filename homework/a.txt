@@ -1,0 +1,7 @@
+si la precision no da, si da un poco mas bajo, bajarla en test
+
+profesor puso en 0.8613
+
+si se demora mucho, cambiarlo a un .py y correr desde consola
+
+
