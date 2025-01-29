@@ -1,4 +1,6 @@
+numpy
 pytest
 pandas
 scikit-learn
 matplotlib
+
